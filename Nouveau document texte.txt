@@ -1,0 +1,3 @@
+https://noahflk.com/blog/express-api-nodejs-typescript-setup
+
+npm install -g win-node-env
